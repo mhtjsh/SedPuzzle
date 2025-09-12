@@ -1,0 +1,1 @@
+{"problem_id":"013","initial_string":"4f9$eeOcUv$eeO4f9$eeOvI&vI&","transitions":[{"src":"cUv","tgt":"$$"},{"src":"$","tgt":"vI&vI&"},{"src":"vI&","tgt":"eeO"},{"src":"eeO","tgt":"4f94f9"},{"src":"4f9","tgt":""}]}

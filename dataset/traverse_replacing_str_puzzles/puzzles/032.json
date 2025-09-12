@@ -1,0 +1,1 @@
+{"problem_id":"032","initial_string":"PIdUjoGEdUjodUjoGEPIGE","transitions":[{"src":"jo","tgt":"PI"},{"src":"PI","tgt":"GE"},{"src":"GE","tgt":"dUdU"},{"src":"dU","tgt":""}]}

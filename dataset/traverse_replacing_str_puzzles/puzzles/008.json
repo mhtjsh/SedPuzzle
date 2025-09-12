@@ -1,0 +1,1 @@
+{"problem_id":"008","initial_string":"c3.1w3%C3%CCNc33%","transitions":[{"src":"C","tgt":"NN"},{"src":"N","tgt":"3%"},{"src":"3%","tgt":"c3c3"},{"src":"c3","tgt":".1w"},{"src":".1w","tgt":""}]}

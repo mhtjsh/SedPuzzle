@@ -1,0 +1,1 @@
+{"problem_id":"048","initial_string":"j6%mb%b%O_j6%b%mm","transitions":[{"src":"m","tgt":"j6%"},{"src":"j6%","tgt":"O_"},{"src":"O_","tgt":"b%b%"},{"src":"b%","tgt":""}]}

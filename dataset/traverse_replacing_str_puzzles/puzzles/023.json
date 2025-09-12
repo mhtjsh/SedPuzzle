@@ -1,0 +1,1 @@
+{"problem_id":"023","initial_string":"tZmERuERuERu66aPtZm66aP66","transitions":[{"src":"6aP","tgt":"ERuERu"},{"src":"ERu","tgt":"tZm"},{"src":"tZm","tgt":"SS"},{"src":"S","tgt":"66"},{"src":"6","tgt":""}]}

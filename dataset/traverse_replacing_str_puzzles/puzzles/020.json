@@ -1,0 +1,1 @@
+{"problem_id":"020","initial_string":"b4c_IyVb4cb4c_ICv&Cv&_IyV_Ib4c","transitions":[{"src":"yV","tgt":"_I"},{"src":"_I","tgt":"Cv&Cv&"},{"src":"Cv&","tgt":"b4cb4c"},{"src":"b4c","tgt":""}]}

@@ -1,0 +1,1 @@
+{"problem_id":"042","initial_string":"5g.#+#+5g.5g.d.T5g.#+d.Td.T","transitions":[{"src":"#+","tgt":"5g."},{"src":"5g.","tgt":"d.T"},{"src":"d.T","tgt":""}]}

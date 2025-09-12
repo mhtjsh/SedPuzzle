@@ -1,0 +1,1 @@
+{"problem_id":"016","initial_string":"@0077@00@00@007wCEwCE","transitions":[{"src":"7","tgt":"@00@00"},{"src":"@00","tgt":"wCEwCE"},{"src":"wCE","tgt":""}]}

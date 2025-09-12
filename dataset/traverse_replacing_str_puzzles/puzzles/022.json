@@ -1,0 +1,1 @@
+{"problem_id":"022","initial_string":"yUdyUdyUdyUdyUdyUdw1yUdyUdyUdyUdyUd","transitions":[{"src":"yUd","tgt":"w1"},{"src":"w1","tgt":"8"},{"src":"8","tgt":""}]}

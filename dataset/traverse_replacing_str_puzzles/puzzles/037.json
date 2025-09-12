@@ -1,0 +1,1 @@
+{"problem_id":"037","initial_string":"EnEnEnEneDeDheRheRheREnheR","transitions":[{"src":"heR","tgt":"eDeD"},{"src":"eD","tgt":"EnEn"},{"src":"En","tgt":""}]}

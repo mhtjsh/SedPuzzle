@@ -1,0 +1,1 @@
+{"problem_id":"021","initial_string":"1*1*HIN9N91*tMtMN9tM1*1*","transitions":[{"src":"tM","tgt":"5*5*"},{"src":"5*","tgt":"1*1*"},{"src":"1*","tgt":"HI"},{"src":"HI","tgt":"N9N9"},{"src":"N9","tgt":""}]}

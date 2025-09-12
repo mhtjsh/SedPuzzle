@@ -1,0 +1,1 @@
+{"problem_id":"005","initial_string":"py2z_C%%py%pypy_C2z2z","transitions":[{"src":"py","tgt":"%"},{"src":"%","tgt":"_C"},{"src":"_C","tgt":"2z2z"},{"src":"2z","tgt":""}]}

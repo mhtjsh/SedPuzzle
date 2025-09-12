@@ -1,0 +1,1 @@
+{"problem_id":"003","initial_string":"uC*uCuCj$*uCuChI9j$*","transitions":[{"src":"*","tgt":"hI9"},{"src":"hI9","tgt":"uCuC"},{"src":"uC","tgt":"j$j$"},{"src":"j$","tgt":""}]}

@@ -1,0 +1,1 @@
+{"problem_id":"031","initial_string":"w4_AMi_A4Mipdw4","transitions":[{"src":"4","tgt":"_A"},{"src":"_A","tgt":"w4"},{"src":"w4","tgt":"pd"},{"src":"pd","tgt":"Mi"},{"src":"Mi","tgt":""}]}

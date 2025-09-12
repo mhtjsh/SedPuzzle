@@ -1,0 +1,1 @@
+{"problem_id":"012","initial_string":"H9Y4H42v42v9Y442vKjn9Y442v9Y4","transitions":[{"src":"9Y4","tgt":"KjnKjn"},{"src":"Kjn","tgt":"HH"},{"src":"H","tgt":"42v"},{"src":"42v","tgt":""}]}

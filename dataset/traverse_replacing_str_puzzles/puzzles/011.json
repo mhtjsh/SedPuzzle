@@ -1,0 +1,1 @@
+{"problem_id":"011","initial_string":"1-F1v1v1DUv-F","transitions":[{"src":"pK-","tgt":"-F"},{"src":"-F","tgt":"vv"},{"src":"v","tgt":"DU"},{"src":"DU","tgt":"11"},{"src":"1","tgt":""}]}

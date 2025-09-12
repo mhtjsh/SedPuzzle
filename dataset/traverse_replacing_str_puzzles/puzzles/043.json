@@ -1,0 +1,1 @@
+{"problem_id":"043","initial_string":"xsb*3xs+#xs+#xsb*3","transitions":[{"src":"V","tgt":"b*3b*3"},{"src":"b*3","tgt":"+#"},{"src":"+#","tgt":"8"},{"src":"8","tgt":"xs"},{"src":"xs","tgt":""}]}

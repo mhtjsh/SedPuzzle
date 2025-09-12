@@ -1,0 +1,1 @@
+{"problem_id":"007","initial_string":"2TT2.T2.2%*T%*","transitions":[{"src":"T","tgt":"%*%*"},{"src":"%*","tgt":"2"},{"src":"2","tgt":".."},{"src":".","tgt":""}]}

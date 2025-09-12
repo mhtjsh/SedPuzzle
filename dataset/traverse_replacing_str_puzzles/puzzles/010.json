@@ -1,0 +1,1 @@
+{"problem_id":"010","initial_string":"l&*E-l&Z%6*E-*E-Z*E-","transitions":[{"src":"*E-","tgt":"l&l&"},{"src":"l&","tgt":"k1"},{"src":"k1","tgt":"%6"},{"src":"%6","tgt":"ZZ"},{"src":"Z","tgt":""}]}

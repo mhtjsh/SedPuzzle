@@ -1,0 +1,1 @@
+{"problem_id":"039","initial_string":"kHnkk5#uN.kHn5#","transitions":[{"src":"k","tgt":"HnHn"},{"src":"Hn","tgt":"uN.uN."},{"src":"uN.","tgt":"5#"},{"src":"5#","tgt":""}]}

@@ -1,0 +1,1 @@
+{"problem_id":"045","initial_string":"3#P7k33333k33Q$k33Q$#P7","transitions":[{"src":"#P7","tgt":"k33k33"},{"src":"k33","tgt":"C.C."},{"src":"C.","tgt":"Q$Q$"},{"src":"Q$","tgt":"3"},{"src":"3","tgt":""}]}

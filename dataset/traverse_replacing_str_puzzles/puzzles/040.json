@@ -1,0 +1,1 @@
+{"problem_id":"040","initial_string":"*@+Z&xw*@+*@+$Qt&xw&xw&xw&xw","transitions":[{"src":"&xw","tgt":"$Qt"},{"src":"$Qt","tgt":"Z"},{"src":"Z","tgt":"4R4R"},{"src":"4R","tgt":"*@+"},{"src":"*@+","tgt":""}]}

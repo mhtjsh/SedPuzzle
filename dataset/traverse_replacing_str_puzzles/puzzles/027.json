@@ -1,0 +1,1 @@
+{"problem_id":"027","initial_string":"##Y##F##F","transitions":[{"src":"Y","tgt":"#"},{"src":"#","tgt":"FF"},{"src":"F","tgt":""}]}
