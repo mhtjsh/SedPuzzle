@@ -1,0 +1,1 @@
+{"problem_id":"001","initial_string":"CPCP..P.C...CP.","transitions":[{"src":"C","tgt":"CP"},{"src":"C","tgt":".."},{"src":"C","tgt":""},{"src":"P","tgt":"C"},{"src":"P","tgt":""},{"src":"P","tgt":"PP"},{"src":"P","tgt":"."},{"src":".","tgt":""},{"src":".","tgt":"PP"},{"src":".","tgt":"C"}]}

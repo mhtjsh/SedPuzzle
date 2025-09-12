@@ -1,0 +1,1 @@
+{"problem_id":"005","initial_string":"-AA-A--A-A","transitions":[{"src":"A","tgt":""},{"src":"A","tgt":"-"},{"src":"A","tgt":"--"},{"src":"A","tgt":"AA"},{"src":"-","tgt":""},{"src":"-","tgt":"A"},{"src":"-","tgt":"-"}]}
