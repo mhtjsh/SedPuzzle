@@ -1,1 +1,0 @@
-{"problem_id":"020","initial_string":"AA7A77AAAA","transitions":[{"src":"A","tgt":""},{"src":"A","tgt":"A"},{"src":"A","tgt":"AA"},{"src":"A","tgt":"77"},{"src":"7","tgt":"AA"},{"src":"7","tgt":""},{"src":"7","tgt":"A"}]}

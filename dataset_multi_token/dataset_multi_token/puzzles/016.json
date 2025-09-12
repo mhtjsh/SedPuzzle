@@ -1,1 +1,0 @@
-{"problem_id":"016","initial_string":"...MM..MM","transitions":[{"src":".","tgt":".."},{"src":".","tgt":"."},{"src":".","tgt":""},{"src":"M","tgt":".."},{"src":"M","tgt":"MM"},{"src":"M","tgt":""},{"src":"M","tgt":"M"}]}

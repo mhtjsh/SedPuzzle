@@ -1,1 +1,0 @@
-{"problem_id":"019","initial_string":"%N%%IINr","transitions":[{"src":"I","tgt":"N"},{"src":"I","tgt":""},{"src":"I","tgt":"r%"},{"src":"N","tgt":""},{"src":"N","tgt":"II"},{"src":"N","tgt":"r"},{"src":"%","tgt":""},{"src":"%","tgt":"N"},{"src":"%","tgt":"r"},{"src":"r","tgt":"%"},{"src":"r","tgt":""},{"src":"r","tgt":"N"}]}

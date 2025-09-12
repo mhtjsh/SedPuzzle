@@ -1,1 +1,0 @@
-{"problem_id":"010","initial_string":"KkkEKKEEE","transitions":[{"src":"k","tgt":"Ek"},{"src":"k","tgt":""},{"src":"k","tgt":"kK"},{"src":"k","tgt":"E"},{"src":"K","tgt":"K"},{"src":"K","tgt":"k"},{"src":"K","tgt":"E"},{"src":"K","tgt":""},{"src":"E","tgt":"K"},{"src":"E","tgt":""},{"src":"E","tgt":"KE"}]}
